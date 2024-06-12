@@ -227,7 +227,7 @@ The [Weather dataset](https://www.bgc-jena.mpg.de/wetter/Weatherstation.pdf), re
 
 ### Influenza-like Illness (ILI)
 
-The [Influenza-like Illness (ILI)](https://gis.cdc.gov/grasp/fluview/fluportaldashboard.htm) dataset encapsulates the weekly incidence rates of influenza-like illness reported by seven Centers for Disease Control and Prevention (CDC) across the United States. Spanning from 2002 to 2021, this dataset aggregates a total of 966 weekly observations, offering a comprehensive view of ILI trends over nearly two decades.
+The [Influenza-like Illness (ILI)](https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html) dataset encapsulates the weekly incidence rates of influenza-like illness reported by seven Centers for Disease Control and Prevention (CDC) across the United States. Spanning from 2002 to 2021, this dataset aggregates a total of 966 weekly observations, offering a comprehensive view of ILI trends over nearly two decades.
 
 The dataset is particularly notable for its detailed breakdown of ILI cases, categorizing data according to patient age groups and the reporting healthcare providers, among other variates. Such granularity enables nuanced analyses of ILI spread patterns, potentially aiding in the development of targeted public health responses.
 
