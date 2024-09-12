@@ -51,6 +51,9 @@ We evaluated the performance of LTBoost on nine established benchmark datasets a
 
 The **detailed performance comparison** is presented in **Table 3**, where the best results are highlighted in bold, the secondbest results are marked with double underline, and the third-best results with one underline. Lower MAE and MSE values indicate better performance, clearly showcasing LTBoost’s leading accuracy across a broad range of conditions and metrics.
 
+### Drop_last=False
+In accordance with the best practices outlined by  ([Qiu *et al.*](https://arxiv.org/pdf/2403.20150)), we used `drop_last=False`. This adjustment ensures that the last incomplete batches are not discarded during evaluation. This clarification corrects our statement in the original paper where we **mistakenly** noted that we dropped the last batch.
+
 ![image](pics/results.jpg)
 
 ## Getting Started
