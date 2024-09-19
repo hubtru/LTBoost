@@ -117,6 +117,16 @@ We additionally provide the following easy-to-use colab notebooks to showcase **
 | ILI     | 60                  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hubtru/LTBoost/blob/main/jupyter_notebooks/demo_ILI_60.ipynb)   |
 | Etth1   | 96                  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hubtru/LTBoost/blob/main/jupyter_notebooks/demo_etth1_96.ipynb) |
 
+## LTBoost Chugging Space
+
+<p>
+  LTBoost HuggingFace Link: 
+  </a>
+  <a href="https://huggingface.co/spaces/hubtru/LTBoost">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="HuggingFace Logo" style="vertical-align: middle;">
+  </a>
+</p>
+
 
 ## Interpretability
 
