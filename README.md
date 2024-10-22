@@ -1,6 +1,6 @@
 # LTBoost: Boosted Hybrids of Ensemble Linear and Gradient Algorithms for the Long-term Time Series Forecasting
 
-This repository is the official Pytorch implementation of LTBoost. 
+This repository is the official Pytorch implementation of [LTBoost](https://dl.acm.org/doi/10.1145/3627673.3679527) (CIKM24). 
 This code is based on the code bases of LTSF-Linear and Autoformer. 
 
 
@@ -272,11 +272,13 @@ The [ETT datasets](https://github.com/zhouhaoyi/ETDataset) include ETTh1, ETTh2 
 If you find LTBoost useful for your work, please consider citing us as follows:
 
 ```BibTeX
-@inproceedings{LTBoost24,
-  title={LTBoost: Boosted Hybrids of Ensemble Linear and Gradient Algorithms for the Long-term Time Series Forecasting},
-  author={Anonymous},
-  journal={Proceedings of },
-  year={2024}
+@inproceedings{LTBoost2024,
+author = {Truchan, Hubert and Kalfar, Christian and Ahmadi, Zahra},
+title = {LTBoost: Boosted Hybrids of Ensemble Linear and Gradient Algorithms for the Long-term Time Series Forecasting},
+year = {2024},
+booktitle = {Proceedings of the 33rd ACM International Conference on Information and Knowledge Management},
+pages = {2271–2281},
+series = {CIKM '24}
 }
 ```
 
