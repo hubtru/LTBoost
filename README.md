@@ -15,7 +15,7 @@ First, the one-layer linear model forecasts multivariate time series by leveragi
 Below, one can see a depiction of LTBoost's training regime.
 Normal lines indicate past values, and dashed lines indicate future values. Please note that:
 𝑛 = #𝑠𝑎𝑚𝑝𝑙𝑒𝑠, 𝑙 = 𝑙𝑜𝑜𝑘𝑏𝑎𝑐𝑘 − 𝑤𝑖𝑛𝑑𝑜𝑤, 𝑓 = 𝑓𝑜𝑟𝑒𝑐𝑎𝑠𝑡𝑖𝑛𝑔 ℎ𝑜𝑟𝑖𝑧𝑜𝑛, 𝑐 = #𝑐ℎ𝑎𝑛𝑛𝑒𝑙𝑠/𝑣𝑎𝑟𝑖𝑎𝑡𝑒𝑠.
-![image](pics/ltboost_training.jpg)
+![image](pics/ltboost_training.png)
 
 
 
