@@ -1,3 +1,7 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/ltboost-boosted-hybrids-of-ensemble-linear/time-series-forecasting-on-ettm1-192-1)](https://paperswithcode.com/sota/time-series-forecasting-on-ettm1-192-1?p=ltboost-boosted-hybrids-of-ensemble-linear)
+[![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face-Spaces-blue?logo=huggingface)](https://huggingface.co/spaces/hubtru/LTBoost)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hubtru/LTBoost/blob/main/jupyter_notebooks/demo_etth1_96.ipynb#scrollTo=HqkvZ6qeF9wo)
+
 # LTBoost: Boosted Hybrids of Ensemble Linear and Gradient Algorithms for the Long-term Time Series Forecasting
 
 This repository is the official Pytorch implementation of [LTBoost](https://dl.acm.org/doi/10.1145/3627673.3679527) (CIKM24). 
