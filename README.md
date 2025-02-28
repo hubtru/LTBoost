@@ -196,7 +196,7 @@ This appendix provides a more detailed description of the nine real-life dataset
 The [Electricity dataset](https://archive.ics.uci.edu/ml/datasets/electricityLoadDiagrams20112014), available from the well established UC Irvine Machine Learning Repository, encompasses hourly electricity consumption data (in kWh) for 321 clients from 2012 to 2014. A [cleaned version](https://github.com/laiguokun/multivariate-time-series-data/tree/master/electricity) of this dataset, includes a comprehensive record across 26,304 timesteps. The dataset identifies its final client as target value *OT*, providing a detailed overview of consumption patterns over the specified period.
 
 ### Exchange Rate
-The [Exchange Rate dataset](https://arxiv.org/abs/1703.07015) captures the daily exchange rates of eight countries' currencies against the U.S. dollar, encompassing Australia, Great Britain, Canada, Switzerland, China, Japan, New Zealand, and Singapore. Spanning from January 1, 1990, to October 10, 2010, this dataset offers a detailed view through 7,588 timesteps. For a succinct summary of the currencies involved, refer to the table below.
+The [Exchange Rate dataset](https://arxiv.org/abs/1703.07015) captures the daily exchange rates of eight countries' currencies against the U.S. dollar, encompassing Australia, Great Britain, Canada, Switzerland, China, Japan, New Zealand, and Singapore. Spanning from January 1, 1990, to October 10, 2016, this dataset offers a detailed view through 7,588 timesteps. For a succinct summary of the currencies involved, refer to the table below.
 
 | Variate | Country       | Currency                 |
 | ------- | ------------- | ------------------------ |
